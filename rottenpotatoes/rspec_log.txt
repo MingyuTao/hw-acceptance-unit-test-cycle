@@ -1,0 +1,14 @@
+
+MoviesController
+  :same_director
+    is a valid action
+    gets a movie
+    searches by director
+  does not have valid director
+    does not search by director
+    shows flash warning message
+
+Finished in 0.0689 seconds (files took 1.56 seconds to load)
+5 examples, 0 failures
+
+Coverage report generated for Cucumber Features, RSpec to /home/ec2-user/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/coverage. 42 / 50 LOC (84.0%) covered.
